@@ -16,7 +16,7 @@
 
 **Requirements:**
  As Per user’s input…..           
-Do you want to register student - 1
+- Do you want to register student - 1
 
 Press 1——— Need to fill below information.
 
@@ -33,12 +33,16 @@ Press n ———
                 Press 1 —  show the info to edit     
             Do you want to Quit - 2
                 Press 2 — Quit
-           Press y ——— Information has been saved in the database.
-                                    Do you want to continue - y/n
-                                        Press y  —  Do you want to register again -1
-                                                    Do you want to see the detail of student -2                                   
-                                        Press n — Quit
+Press y ——— 
 
-Do you want to see the detail of student -2 
-Press 2——— Enter the student name :
-                            scraping info from the database and all details are displayed.
+            Information has been saved in the database.
+            Do you want to continue - y/n
+            Press y  —  Do you want to register again -1
+                        Do you want to see the detail of student -2                                   
+            Press n — Quit
+
+- Do you want to see the detail of student -2 
+
+  Press 2——— Enter the student name :
+  
+               scraping info from the database and all details are displayed.
